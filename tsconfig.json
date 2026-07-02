@@ -11,5 +11,5 @@
     "ignoreDeprecations": "6.0",
     "types": ["node"]
   },
-  "include": ["tests/**/*.ts", "lib/**/*.ts"]
+  "include": ["playwright.config.ts", "tests/**/*.ts", "lib/**/*.ts"]
 }
