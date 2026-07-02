@@ -13,7 +13,6 @@
     "scripts/",
     "docs/",
     "playwright.config.js",
-    "playwright.config.ts",
     "tsconfig.json",
     "tsconfig.build.json",
     ".env.example",
