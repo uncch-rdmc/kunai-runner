@@ -156,3 +156,6 @@ sensitive-data/
 
 # Sample workflows
 container-frontend-tests.yml
+
+# Secure Docs
+secure_docs/
